@@ -30,8 +30,6 @@ HK-CLPT is divided into six levels, progressing from basic survival Cantonese to
 - [ ] **Build a Centralized Learning Platform**: Create a site to house all resources, offering a complete learning experience outside GitHub.
 - [ ] **Integrate Certification System**: Develop certifications tied to practice tests, enabling learners to validate their proficiency and progress.
 
-Check the [Issues](https://github.com/yourusername/hk-clpt/issues) tab for specific tasks in progress.
-
 # FAQ
 
 ## What is HK-CLPT?
