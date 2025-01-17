@@ -6,6 +6,7 @@ If you’re new to learning Cantonese, it’s essential to familiarize yourself 
 
 ## Jyutping vs. Chinese Characters
 * [Overview of the Jyutping Romanization System (YouTube)](https://youtu.be/Os0JAm_8cHI?si=vBfq9FZTWWud8RaV)
+* [Jyutping Chart (Reading)](https://opencantonese.org/books/cantonese-life-1/pronunciation-guide/jyutping-chart)
 * [List of Cantonese Radicals and Characters (Reading)](https://www.cantoneseclass101.com/chinese-radicals)  
 
 ## Pronunciation
