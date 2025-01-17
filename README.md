@@ -82,4 +82,4 @@ As I’ve worked to address this gap in my education, I’ve discovered how diff
 
 Unlike Mandarin, which has structured frameworks like the HSK, Cantonese has no globally recognized equivalent. While Hong Kong does have internal proficiency tests, they are largely inaccessible to the international community. This lack of resources inspired me to create the HK-CLPT.
 
-This project is a deeply personal endeavor—a way to help myself become literate in Cantonese while also creating a resource for others facing similar challenges. It is not official, nor is it affiliated with any governing body. I am simply one person, passionate about learning and sharing what I create along the way. I hope this framework will not only help me but also benefit others striving to connect with the Cantonese language and Hong Kong culture.
+This project is a deeply personal endeavor—a way to help myself become literate in Cantonese while also creating a resource for others facing similar challenges. HK-CLPT is *not* official, nor is it affiliated with any governing body. I am simply one person, learning and sharing what I create along the way.
