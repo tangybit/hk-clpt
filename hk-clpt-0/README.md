@@ -4,24 +4,25 @@ The US Foreign Service Institute (FSI) classifies Cantonese as a **"super hard" 
 
 If you’re new to learning Cantonese, it’s essential to familiarize yourself with a few key concepts of the language first. Review these resources for a preliminary overview:
 
-## Understanding Written vs. Spoken Cantonese
-* [Introduction to Cantonese Writing (YouTube)](https://youtu.be/ZFp7t8OD230?si=sHFh09W-kRKXXR10)
-* [Why Is Cantonese Different When It's in Writing? (YouTube)](https://youtu.be/1X6MG-UW4zA?si=5tmy1gXNJf3y7Q15)
-* [Written vs. Spoken Guide (Reading)](https://www.cantoneseclass101.com/spoken-written-cantonese)
+## Pronunciation
+* [Pronunciation Guides (YouTube)](https://www.youtube.com/@opencant)
+* [Pronunciation Guides (Reading)](https://opencantonese.org)
 
 ## Jyutping vs. Chinese Characters
 * [Overview of the Jyutping Romanization System (YouTube)](https://youtu.be/Os0JAm_8cHI?si=vBfq9FZTWWud8RaV)
 * [List of Cantonese Radicals and Characters (Reading)](https://www.cantoneseclass101.com/chinese-radicals)  
 
-## Pronunciation
-* [Pronunciation Guides (YouTube)](https://www.youtube.com/@opencant)
-* [Pronunciation Guides (Reading)](https://opencantonese.org)
+## Understanding Written vs. Spoken Cantonese
+* [Introduction to Cantonese Writing (YouTube)](https://youtu.be/ZFp7t8OD230?si=sHFh09W-kRKXXR10)
+* [Why Is Cantonese Different When It's in Writing? (YouTube)](https://youtu.be/1X6MG-UW4zA?si=5tmy1gXNJf3y7Q15)
+* [Written vs. Spoken Guide (Reading)](https://www.cantoneseclass101.com/spoken-written-cantonese)
+
 
 ## Other Resources
 * [Cantonese 101: Introductory Resources (Reading)](https://www.cantoneseclass101.com/cantonese-resources)
 * [Cantonese Dictionary (Tool)](https://www.cantoneseclass101.com/cantonese-dictionary)
 
 
-If you have a baseline understanding of the difference between written and spoken Cantonese, how tones affect pronunciation, and how to use the Jyutping system to read and pronounce words and phrases, you already have a solid foundation to get started. There’s no need to memorize all the tones right away—that will come naturally with practice.
+If you have a baseline understanding of how tones affect pronunciation, how to use the Jyutping system to read and pronounce words, and the difference between written and spoken Cantonese, you already have a solid foundation to get started. There’s no need to memorize all the tones right away—that will come naturally with practice.
 
 As a first step, focus on understanding how these components work together and where to find reliable resources to reference as you learn. With this groundwork, you're ready to begin your Cantonese learning journey!
