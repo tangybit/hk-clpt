@@ -4,19 +4,18 @@ The US Foreign Service Institute (FSI) classifies Cantonese as a **"super hard" 
 
 If you’re new to learning Cantonese, it’s essential to familiarize yourself with a few key concepts of the language first. Review these resources for a preliminary overview:
 
-## Pronunciation
-* [Pronunciation Guides (YouTube)](https://www.youtube.com/@opencant)
-* [Pronunciation Guides (Reading)](https://opencantonese.org)
-
 ## Jyutping vs. Chinese Characters
 * [Overview of the Jyutping Romanization System (YouTube)](https://youtu.be/Os0JAm_8cHI?si=vBfq9FZTWWud8RaV)
 * [List of Cantonese Radicals and Characters (Reading)](https://www.cantoneseclass101.com/chinese-radicals)  
+
+## Pronunciation
+* [Pronunciation Guides (YouTube)](https://www.youtube.com/@opencant)
+* [Pronunciation Guides (Reading)](https://opencantonese.org/books/cantonese-life-1/pronunciation-guide)
 
 ## Understanding Written vs. Spoken Cantonese
 * [Introduction to Cantonese Writing (YouTube)](https://youtu.be/ZFp7t8OD230?si=sHFh09W-kRKXXR10)
 * [Why Is Cantonese Different When It's in Writing? (YouTube)](https://youtu.be/1X6MG-UW4zA?si=5tmy1gXNJf3y7Q15)
 * [Written vs. Spoken Guide (Reading)](https://www.cantoneseclass101.com/spoken-written-cantonese)
-
 
 ## Other Resources
 * [Cantonese 101: Introductory Resources (Reading)](https://www.cantoneseclass101.com/cantonese-resources)
